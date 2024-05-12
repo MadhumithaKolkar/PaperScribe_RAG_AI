@@ -2,7 +2,7 @@
 
 PaperScribe is an LLM-powered chatbot designed to assist with reading and understanding PDF documents. It utilizes Streamlit for the user interface, LangChain for text processing, and OpenAI for language model capabilities.
 
-![Paper_Scribe-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/PaperScribe_RAG_AI/assets/54811937/69469a84-1439-47df-a123-95b9cb2d9660)
+![image](https://github.com/MadhumithaKolkar/PaperScribe_RAG_AI/assets/54811937/89dc9013-9561-46df-bc07-48d4e2553d91)
 
 ## About
 
@@ -43,4 +43,4 @@ To run PaperScribe locally, follow these steps:
 4. Run the Streamlit app:
 >>> streamlit run main.py
 
-![image](https://github.com/MadhumithaKolkar/PaperScribe_RAG_AI/assets/54811937/89dc9013-9561-46df-bc07-48d4e2553d91)
+
